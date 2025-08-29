@@ -1,0 +1,11 @@
+/var/tmp/vibe-kanban/worktrees/vk-38c3-remove-mai/target/debug/deps/bitflags-7683fa528d697137.d: /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/lib.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/iter.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/parser.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/traits.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/public.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/internal.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/external.rs
+
+/var/tmp/vibe-kanban/worktrees/vk-38c3-remove-mai/target/debug/deps/libbitflags-7683fa528d697137.rmeta: /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/lib.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/iter.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/parser.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/traits.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/public.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/internal.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/external.rs
+
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/lib.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/iter.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/parser.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/traits.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/public.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/internal.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.3/src/external.rs:

@@ -1,0 +1,10 @@
+.git
+.safe_backup
+src
+example
+package.json
+README.md
+tailwind.config.ts
+tsconfig.json
+tsconfig.node.json
+vite.config.ts

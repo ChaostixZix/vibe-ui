@@ -1,0 +1,11 @@
+/var/tmp/vibe-kanban/worktrees/vk-38c3-remove-mai/target/debug/deps/addr2line-a9a5ab1460ede84e.d: /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lib.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/frame.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/function.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lazy.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/line.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lookup.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/unit.rs
+
+/var/tmp/vibe-kanban/worktrees/vk-38c3-remove-mai/target/debug/deps/libaddr2line-a9a5ab1460ede84e.rmeta: /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lib.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/frame.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/function.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lazy.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/line.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lookup.rs /home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/unit.rs
+
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lib.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/frame.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/function.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lazy.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/line.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/lookup.rs:
+/home/bintangputra/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/addr2line-0.24.2/src/unit.rs:
