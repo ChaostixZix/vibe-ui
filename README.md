@@ -11,6 +11,12 @@ Reusable React + Tailwind components extracted from Vibe Kanban. This repo is in
 - Build library: `pnpm build` (outputs `dist/`)
 - Preview build: `pnpm -C example build && pnpm -C example preview`
 
+## Demo Screenshot
+
+![Vibe Kanban UI Kit Gallery](https://github.com/user-attachments/assets/6e00e9b6-52be-4947-88d1-e4b24d8a73b4)
+
+The demo showcases all available components including alerts, buttons, badges, form controls, interactive components, advanced components, and the kanban board.
+
 ## Using The Kit (via clone)
 
 - Styles: import `@vibe-kanban/ui-kit/styles` once in your app entry or CSS.
